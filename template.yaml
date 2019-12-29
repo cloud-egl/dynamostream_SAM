@@ -17,7 +17,7 @@ Resources:
       CodeUri: hello_world/
       Handler: app.lambda_handler
       Runtime: python3.6
-      Role: arn:aws:iam::756199844065:role/admin-role
+      Role: arn:aws:iam::xxxxxx:role/role-name
       MemorySize: 3008
       Timeout: 900
       Events:
